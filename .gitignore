@@ -1,0 +1,36 @@
+HELP.md
+target/
+!**/src/main/**
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+.mvn
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.bak
+.mvn/
+
+### NetBeans ###
+/nbproject/private/
+
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+
+### Log files ###
+*.log
+*.mp3
+*.MP3
