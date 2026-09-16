@@ -29,10 +29,14 @@ target/
 build/
 old-lrc/
 guide/
+__pycache__/
+old_lrc/
 ### VS Code ###
 .vscode/
 */__pycache__/*
+
 ### Log files ###
 *.log
 *.mp3
 *.MP3
+
