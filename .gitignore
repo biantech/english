@@ -27,7 +27,8 @@ target/
 /nbdist/
 /.nb-gradle/
 build/
-
+old-lrc/
+guide/
 ### VS Code ###
 .vscode/
 */__pycache__/*
