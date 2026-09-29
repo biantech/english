@@ -1,58 +1,83 @@
 [ti:Day 12]
 
-[00:00.00]terminate 例 There must be some reason to terminate an employee in our company.
-[00:09.88]gadget 例 This week on the gadget show, we found out what the best printers on the market are.
-[00:21.29]amateur 例 The mark of the amateur in any field is to lose one's head when the going gets hard.
-[00:32.70]array 例 Trade was restricted by an array of taxes and prohibitions on imports and exports.
-[00:44.10]breadwinner 例 Nowadays, more women take on the role of breadwinner.
-[00:52.77]pledge 例 The contract pledges the two companies to cooperate with each other.
-[01:02.66]equilibrium 例 In simple words, when supply equates demand, we get an equilibrium.
-[01:13.15]emit 例 He emitted his proposal to the functional draft.
-[01:20.15]maximise 例 The CFO of the company should measure the outcomes to maximise their profit.
-[01:31.25]aviation 例 The Association of Southeast Asian Nations is working on establishing a single aviation market with no traffic restrictions by 2015.
-[01:49.81]ladder 例 Many computers used the binary system in the past.
-[01:57.26]undo 例 The climbing price of crude oil might undo America's economic recovery.
-[02:07.30]cereal 例 As corn prices rise, some ranchers are choosing wheat as a feed crop, boosting demand for the cereal and its price.
-[02:22.81]bespoke 例 The bespoke furniture for our new house is very appropriate.
-[02:31.78]scope 例 They scoped out the local market before starting the business.
-[02:40.75]hook 例 Music is often the hook to the visuals.
-[02:46.38]ceremony 例 This ceremony has a special meaning for all of us.
-[02:53.99]boom 例 The government needs to keep a watchful eye on the investment boom risk.
-[03:03.87]consecutive 例 Two consecutive tasks in a business model may use different business items as the output and input.
-[03:18.32]annualised 例 In order to borrow the shares, the investors have to pay the owner an annualised percentage of the stock's value.
-[03:34.29]fiat 例 The urban population grows by administrative fiat, not by the actual move of the population from the country to the city.
-[03:50.41]unwind 例 The picnic will give you a chance to unwind.
-[03:56.95]dip 例 We dipped into our savings.
-[04:01.06]high-tech 例 The demands for the simplicity of high- tech products are increasing as the economy is in the upswing.
-[04:15.51]broadband 例 This was an important company since it started the broadband revolution that eventually spread around the world.
-[04:31.63]reinstall 例 Through negotiation, the employer agreed to reinstall the former personnel manager.
-[04:44.25]appropriate 例 You can then select the appropriate product from this full list.
-[04:54.29]fuss 例 There will be a fuss when the media get hold of the story.
-[05:02.05]upswing 例 Tourism in China has witnessed a dramatic upswing in recent years.
-[05:11.78]disrupt 例 Will these emerging giants disrupt the framework for sustainable development?
-[05:23.34]documentary 例 A documentary draft can offer greater security to the exporter.
-[05:33.38]overqualified 例 You are overqualified for this kind of job.
-[05:40.98]jet-setter 例 Many jet-setters attended the party held by the billionaire.
-[05:50.56]patience 例 Like it or not, the work does require some time and patience.
-[05:59.54]realign 例 Our company will realign its global resources next month.
-[06:08.21]stem 例 Many bankers expressed worry over the risks that stem from lending to the property sector.
-[06:20.52]bureaucracy 例 Bureaucracy shouldn't occur in our company.
-[06:28.13]ballot 例 The result of the ballot will not be declared to the public until this weekend.
-[06:39.08]navigate 例 Because of the complicated traffic system in the city, I determined to set up GPS in the car for navigating destinations.
-[06:55.81]mastermind 例 He is the well-recognised mastermind of the department.
-[07:04.78]field 例 They will also scope out another new field.
-[07:11.17]civil 例 Debates about war and peace as well as those about security and civil liberties have often been fierce.
-[07:25.16]delegate 例 All delegates attending the two sessions should value their opportunities to speak for people.
-[07:38.85]gratis 例 The salesman told us the samples were sent gratis.
-[07:46.30]counteroffer 例 If you cannot accept our offer, please make the best possible counteroffer.
-[07:58.01]sacred 例 The foreign supplier offered us many favourable terms, even allowing the payment 30 days after sight.
-[08:12.16]snap 例 Please make a snap decision about what you want to buy.
-[08:19.76]localise 例 Some international companies are making efforts to localise their operations.
-[08:31.47]finding 例 They recently published the findings of a study on this topic.
-[08:40.60]encrypt 例 We plan to buy the software to encrypt our products.
-[08:48.35]deposit 例 At present, the turnover tax of banks in China is levied according to the margin between the borrowing rate and deposit rate.
-[09:05.39]thrust 例 All of these jobs are thrust on her.
-[09:10.86]majority 例 The majority of these employees have no voice.
-[09:18.16]reprobate 例 She was determined to reprobate such a common system.
-[09:26.53]cohesion 例 More worrying is what all this tells us about the fundamental cohesion of the Union.
-[09:38.54]naval 例 As an important naval base, the harbour has got great attention from the local government.
+[00:00.00]terminate [ˈtɜːmɪneɪt]v. 停止；(使)终止；解雇 例 There must be some reason to terminate an employee in our company.
+[00:10.80]symbolism [ˈsɪmbəlɪzəm]n. 象征；象征主义
+[00:14.52]gadget [ˈɡædʒɪt]n. 小玩意；精巧的装置；小巧的机械 例 This week on the gadget show, we found out what the best printers on the market are.
+[00:26.64]ready-made [ˌrediˈmeɪd]a. 现成的；做好的；陈旧的
+[00:30.84]amateur [ˈæmətə(r)]a. 业余的，非职业的；外行的 n. 业 余爱好者；外行，生手 例 The mark of the amateur in any field is to lose one's head when the going gets hard. 搭 Amateur Athlete Association 业余运动员联 盟
+[00:48.36]restore [rɪˈstɔː(r)]vt. 恢复；修复；使复原；使复位；归 还 搭 restore order 恢复秩序 / restore sth. to 把… 归还给…
+[00:57.36]array [əˈreɪ]n. 排列；队形；盛装；陈列；一系列 vt. 排列；整(队)；配置(兵力)；打扮 例 Trade was restricted by an array of taxes and prohibitions on imports and exports. 搭 an array of 大量，一系列 / holiday array 节 日盛装
+[01:15.60]institute [ˈɪnstɪtjuːt]n. 协会；研究所；学院 vt. 建立；创 立；制定 搭 design institute 设计院
+[01:23.16]breadwinner [ˈbredwɪnə(r)]n. 养家糊口的人 例 Nowadays, more women take on the role of breadwinner.
+[01:32.64]pledge [pledʒ]n. 抵押；抵押品；保证；誓言 vt. 抵押， 典当；发誓，保证 例 The contract pledges the two companies to cooperate with each other. 搭 in pledge 在抵押中 / pledge oneself to 发 誓，保证
+[01:48.72]equilibrium [ˌiːkwɪˈlɪbriəm]n. 平衡，均衡；均势；(心情的)平 静 例 In simple words, when supply equates demand, we get an equilibrium.
+[02:01.08]emit [iˈmɪt]vt. 散发；发表(意见等)；发布(命令)；发行 (货币等) 例 He emitted his proposal to the functional draft. 搭 emit instruction 发出指令
+[02:13.20]proprietor [prəˈpraɪətə(r)]n. 所有人；业主；经营者
+[02:17.76]maximise [ˈmæksɪmaɪz]vt. 使最大化；充分重视 例 The CFO of the company should measure the outcomes to maximise their profit.
+[02:29.40]aviation [ˌeɪviˈeɪʃn]n. 航空；航空学；飞机制造业 例 The Association of Southeast Asian Nations is working on establishing a single aviation market with no traffic restrictions by 2015.
+[02:47.16]ladder [ˈlædə(r)]n. 梯子；阶梯；途径 搭 kick down the ladder 过河拆桥 binary system 二进制 例 Many computers used the binary system in the past. 过去，许多电子计算机都使用二进制系 统。
+[03:02.16]undo [ʌnˈduː]vt. 取消，撤销；毁坏；解开，松开 例 The climbing price of crude oil might undo America's economic recovery.
+[03:13.08]cereal [ˈsɪərɪəl]n. [常pl.]谷类植物，谷物；谷类食物，麦 片粥 例 As corn prices rise, some ranchers are choosing wheat as a feed crop, boosting demand for the cereal and its price.
+[03:29.40]bespoke [bɪˈspəʊk]a. 订货的；定做的；预约的 例 The bespoke furniture for our new house is very appropriate.
+[03:39.24]compass [ˈkʌmpəs]n. 指南针，罗盘；界限，区域 vt. 围 绕；领会；达到 (目的) 搭 compass card 罗盘刻度盘 / within the compass of... 在…的范围内
+[03:50.04]accessory [əkˈsesəri]n. [常pl.]附件；配件；(妇女的)装饰品 a. 附属的；辅助的
+[03:56.16]scope [skəʊp]n. (活动)范围；机会；余地；视野，眼界 vt. 打量，评估；审视 例 They scoped out the local market before starting the business. 搭 within the scope of 在…的范围内
+[04:10.56]hook [hʊk]n. 钩，挂钩；陷阱，引诱手段 vt. 引人上 钩，欺骗 例 Music is often the hook to the visuals. 搭 by hook or by crook 不择手段 / go on the hook for 为…而负债；为…冒险 / off the hook 脱离困境；脱身
+[04:26.04]ceremony [ˈserəməni]n. 典礼，仪式；礼节，礼仪；客套 例 This ceremony has a special meaning for all of us. 搭 elaborate ceremony 隆重的典礼 / perform the opening ceremony 举行开幕式 / stand on ceremony 讲究客套；客气 / without ceremony 不拘礼节地，随便地
+[04:47.52]boom [buːm]vt. 迅速发展，激增 n. (贸易和经济活动 的)激增，繁荣 例 The government needs to keep a watchful eye on the investment boom risk.
+[04:59.28]consecutive [kənˈsekjətɪv]a. 连续不断的；按时间顺序的 例 Two consecutive tasks in a business model may use different business items as the output and input.
+[05:14.04]annualised [ˈænjuəlaɪzd]a. (利率等)按年计算的 例 In order to borrow the shares, the investors have to pay the owner an annualised percentage of the stock's value.
+[05:29.64]end-user [ˌendˈjuːzə(r)]n. 最终用户，目标用户
+[05:33.72]discrepancy [dɪsˈkrepənsi]n. 不相符(之处)，不一致(之处)； 差异 搭 discrepancy in …方面的不一致
+[05:41.64]fiat [ˈfiːæt]n. 命令，法令；许可，批准；决定 例 The urban population grows by administrative fiat, not by the actual move of the population from the country to the city.
+[05:57.24]rectify [ˈrektɪfaɪ]vt. 纠正；整顿 搭 rectify an error 纠正错误 / rectify the style of work 整顿工作作风
+[06:06.00]unwind [ˌʌnˈwaɪnd]v. 展开；解开；(使)放松 例 The picnic will give you a chance to unwind.
+[06:14.04]dip [dɪp]vi. 从…中取钱；轻微下降(通常是暂时的) n. 行情下跌 例 We dipped into our savings. 搭 dip in sb.'s purse 花钱；自掏腰包；解囊捐款
+[06:24.48]high-tech [ˌhaɪˈtek]n. 高科技 a. 尖端技术的 例 The demands for the simplicity of high- tech products are increasing as the economy is in the upswing.
+[06:38.52]broadband [ˈbrɔːdbænd]n. 宽带 例 This was an important company since it started the broadband revolution that eventually spread around the world.
+[06:53.16]reinstall [ˌriːɪnˈstɔːl]vt. 使重新正式就职；重新安装；重新 设置 例 Through negotiation, the employer agreed to reinstall the former personnel manager.
+[07:07.20]mainframe [ˈmeɪnfreɪm]n. 主机；大型机 搭 mainframe computer 大型计算机
+[07:13.44]appropriate [əˈprəʊpriət]a. 适合的，适当的；相称的 [əˈprəʊprieɪt]vt. 拨出(款项)；侵吞；盗用，占用 例 You can then select the appropriate product from this full list.
+[07:28.32]fuss [fʌs]vi. 小题大做；忙乱 vt. 使烦恼；扰乱 n. 大 惊小怪；忙乱；紧张不安；争吵 例 There will be a fuss when the media get hold of the story. 搭 fuss about 大惊小怪 / fuss up and down 忙 得团团转 / kick up a fuss 大吵大闹；滋事
+[07:45.60]upswing [ˈʌpswɪŋ]n. 向上摆动；回升；上涨；改进 vi. 向 上摆动；提高 例 Tourism in China has witnessed a dramatic upswing in recent years.
+[07:57.36]disrupt [dɪsˈrʌpt]vt. 使中断；使分裂；使瓦解 例 Will these emerging giants disrupt the framework for sustainable development?
+[08:09.36]documentary [ˌdɒkjuˈmentri]a. 文件的；由文件构成的；附有 单据的 例 A documentary draft can offer greater security to the exporter.
+[08:21.24]mannequin [ˈmænɪkɪn]n. 服装模特；人体模型
+[08:24.84]overqualified [ˌəʊvəˈkwɒlɪfaɪd]a. (对任某职位)资历过高的；条 件过好的 例 You are overqualified for this kind of job.
+[08:35.28]jet-setter [ˈdʒetsetə(r)]n. 乘喷气式飞机到处旅游的富人； 富豪 例 Many jet-setters attended the party held by the billionaire.
+[08:46.68]patience [ˈpeɪʃns]n. 耐性，忍耐力；耐心；坚韧，毅力 例 Like it or not, the work does require some time and patience. 搭 out of patience 失去耐心 / have no patience with/for/to do sth. 不能容忍… / with patience 耐心地
+[09:05.40]realign [ˌriːəˈlaɪn]v. 重新调整；重组 例 Our company will realign its global resources next month.
+[09:14.76]stem [stem]vi. 起源于某事物 n. 船头；血统 例 Many bankers expressed worry over the risks that stem from lending to the property sector. 搭 from stem to stern 从头到尾；完全 / stem from 源于
+[09:31.20]bureaucracy [bjʊəˈrɒkrəsi]n. 官僚主义，官僚作风；政府机 构；政府官员 例 Bureaucracy shouldn't occur in our company.
+[09:41.40]ballot [ˈbælət]n. 候选人名单；选票；投票权；票数 vi. 投票 vt. 向…拉选票 例 The result of the ballot will not be declared to the public until this weekend. 搭 ballot box 投票箱 / ballot for 投票支持 / cast a ballot 投票 / secret ballot 匿名投票
+[10:01.56]navigate [ˈnævɪgeɪt]vt. 驾驶(船舶、飞行器等)；(从海上、 空中等)横渡，飞跃 vi. (给船舶、飞机等)领航；导 航 例 Because of the complicated traffic system in the city, I determined to set up GPS in the car for navigating destinations.
+[10:21.60]mastermind [ˈmɑːstəmaɪnd]n. 才华横溢的人，才子；出谋划 策者 vt. 策划；幕后操纵 例 He is the well-recognised mastermind of the department.
+[10:33.60]field [fiːld]n. (作某种用途的)场地；领域 vt. 保护；即 席圆满回答 vi. 接，掷(球) a. 实地的；野外的 例 They will also scope out another new field. 搭 keep the field 继续作战；继续比赛 / leave the field clear for sb. 不再与某人比赛；不再与 某人竞争
+[10:52.32]sweeping [ˈswiːpɪŋ]a. 一扫而光的；笼统的；总括的
+[10:56.28]release [rɪˈliːs]n./vt. 释放；解除；摆脱；放开；放行； 发布，发行 搭 release sb. from 把某人从…中解放出来 keep in stock 有货；库存
+[11:06.24]civil [ˈsɪvl]a. 市民的；民用的；民事的；文职的；有礼 貌的 例 Debates about war and peace as well as those about security and civil liberties have often been fierce. 搭 civil service 公务员
+[11:22.68]delegate [ˈdelɪɡət]n. 代表；会议代表 例 All delegates attending the two sessions should value their opportunities to speak for people.
+[11:35.76]toiletry [ˈtɔɪlətrɪ]n. 化妆品；化妆用具 搭 toiletry bag 化妆包
+[11:41.04]gratis [ˈɡrætɪs]a./ad. 免费的(地) 例 The salesman told us the samples were sent gratis.
+[11:49.44]counteroffer [ˈkaʊntəɔːfə]n. 还价，还盘；反提议 例 If you cannot accept our offer, please make the best possible counteroffer.
+[12:01.56]sacred [ˈseɪkrɪd]a. 神圣的；神圣不可侵犯的；郑重的； 专供…用的 搭 a fund sacred to... …的专用款项 / sacred promise 郑重的承诺 / sacred right 神圣不可侵 犯的权利 sinking fund 偿债基金 after sight 见票后付款 例 The foreign supplier offered us many favourable terms, even allowing the payment 30 days after sight. 那家国外供货商给我们提供 了很多优惠条件，甚至允许我们见票30天后付 款。
+[12:32.04]snap [snæp]a. 突然的；快的，迅速的 例 Please make a snap decision about what you want to buy.
+[12:40.20]localise [ˈləʊkəlaɪz]vt. 使地方化；使局部化；定位 例 Some international companies are making efforts to localise their operations. 搭 localise attention upon sth. 把注意力集中在 某事上
+[12:57.00]finding [ˈfaɪndɪŋ]n. 发现；发现物；[pl.]调查结果 例 They recently published the findings of a study on this topic. 搭 findings and conclusions 调查结果和结论
+[13:11.16]encrypt [ɪnˈkrɪpt]vt. 将…译成密码；为…加密 例 We plan to buy the software to encrypt our products.
+[13:20.16]anthropology [ˌænθrəˈpɒlədʒi]n. 人类学
+[13:24.12]deposit [dɪˈpɒzɪt]n. 定金；押金；存款，储蓄 vt. 存放； 储蓄 例 At present, the turnover tax of banks in China is levied according to the margin between the borrowing rate and deposit rate.
+[13:41.28]thrust [θrʌst]vt. 用力推，向前挤；将…强加于；强使 例 All of these jobs are thrust on her. 搭 thrust oneself forward 使自己被注意；出头 露面
+[13:52.56]ailing [ˈeɪlɪŋ]a. 生病的；境况不佳的，不景气的
+[13:56.16]lineskipper [ˌlaɪnˈskɪpə(r)]n. (不按排队顺序)抢先者；(排队) 加塞者
+[14:01.92]leasehold [ˈliːshəʊld]n. 通过租契获得的财产；租期；租赁 权 a. 租赁的
+[14:07.20]majority [məˈdʒɒrəti]n. 多数；成年 a. 多数(人)的 例 The majority of these employees have no voice. 搭 a majority of 大多数的… / in the majority 占 多数
+[14:20.28]reprobate [ˈreprəbeɪt]vt. 非难；谴责；拒绝 例 She was determined to reprobate such a common system.
+[14:29.64]tier [tɪə(r)]n. 层，排；行，列；等级
+[14:32.52]skimming [ˈskɪmɪŋ]n. 撇去，撇渣
+[14:35.40]cohesion [kəʊˈhiːʒn]n. 凝聚性，凝聚力 例 More worrying is what all this tells us about the fundamental cohesion of the Union.
+[14:47.28]threatening [ˈθretnɪŋ]a. 胁迫的；危险的；凶兆的 搭 threatening letter 恐吓信
+[14:53.88]transport [ˈtrænspɔːt]vt. 运输，运送 n. 运输；运输系统； 运输工具
+[14:59.04]malpractice [ˌmælˈpræktɪs]n. 玩忽职守；不端行为；职业过 失；治疗不当
+[15:04.56]naval [ˈneɪvl]a. 海军的；军舰的 例 As an important naval base, the harbour has got great attention from the local government.
+[15:16.44]antique [ænˈtiːk]a. 过时的，古老的；陈旧的；古董的 n. 古物，古玩，古董

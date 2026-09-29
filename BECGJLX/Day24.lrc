@@ -1,55 +1,83 @@
 [ti:Day 24]
 
-[00:00.00]cubicle 例 I like to decorate my cubicle with pictures of my family and friends.
-[00:09.27]veracity 例 The veracity of the statistics is questioned by all of the staff.
-[00:18.25]couture 例 He left Dior in 1961 and opened his own couture house, financed by Berge, in 1962.
-[00:28.95]bias 例 She goes to great effort to prompt her neighbour to shed his bias.
-[00:37.36]foreclose 例 Only through the help of a friendly lawyer did they escape foreclosure.
-[00:47.34]canvass 例 We have well-established channels of distribution, so we can canvass the retailers directly, without any middlemen.
-[01:02.75]accrue 例 The monthly finance charges will accrue if you do not pay off your credit card debt before the payment termination date.
-[01:18.01]enclose 例 I will enclose an order sheet for the dictionaries and a cheque for 100 dollars with the letter.
-[01:30.41]redundant 例 As the economy weakens, more and more people will be made redundant from their jobs.
-[01:41.82]stereotype 例 He doesn't fit the stereotype of a successful businessman.
-[01:50.52]parkland 例 The building is surrounded by five acres of parkland.
-[01:58.22]forecast 例 One thing we cannot do very well is to forecast the economy.
-[02:06.49]arouse 例 You arouse their interest by telling them that you're the right person for the position and by promising to help them achieve their mission.
-[02:24.18]quarantine 例 All of these imported animal products have to be quarantined for two weeks when they reach China.
-[02:37.30]exempt 例 Travel expenses are exempt from income tax.
-[02:43.57]apt 例 Expense allowances are apt to mean fiddling.
-[02:49.56]mislay 例 He often mislays different products.
-[02:55.12]fire 例 Her boss threatened to fire her.
-[02:59.69]bureau 例 The Census Bureau says birthrates have dropped in every area of the world except Africa.
-[03:11.24]leverage 例 If you don't do this, you will miss the opportunity to create leverage.
-[03:20.94]entrepreneurial 例 Entrepreneurial culture is part of the entrepreneurial management.
-[03:31.63]vicinity 例 There is a store in the immediate vicinity of the station.
-[03:39.76]benefit 例 If the new team can find innovative ways to enhance employees' enthusiasm, the benefits are manifold.
-[03:53.17]orbit 例 Housing prices have gone into orbit this year.
-[03:59.59]cede 例 The Fed should cede responsibility for the micro management of American banks.
-[04:09.86]remunerate 例 The company has not yet remunerated my overtime payments.
-[04:18.41]dependence 例 An increasing dependence on outside contractors has contributed to heightened danger at these plants.
-[04:32.53]upshift 例 The futures industry is expecting an upshift in the coming years.
-[04:41.52]clutter 例 The buttons not only slow down your computer, but also create visual clutter.
-[04:51.93]variance 例 Both sides are at variance on what measures to be taken.
-[04:59.77]teleworking 例 The system of teleworking can help reduce office operating expenses.
-[05:09.90]mount 例 As job rejections mount up, they are beginning to feel alarmed.
-[05:18.31]curve 例 What information is needed to derive the production possibility curve of each country?
-[05:29.72]elite 例 We grouped an elite team for the onsite support for the new product.
-[05:38.56]referral 例 I made a referral of this young woman to our department.
-[05:46.41]carriage 例 The railway carriage became so hot that air misted up the windows.
-[05:55.53]fray 例 Only at this stage did biotech supporters enter the fray, denouncing the decision as a triumph of politics over science.
-[06:10.65]end-consumer 例 We see it that competition is really healthy for the end-consumer.
-[06:20.49]shelve 例 The plan has to be shelved due to lack of money.
-[06:26.91]underline 例 They invited many experts to train its employees and underlined again and again the importance of this project.
-[06:41.74]multiply 例 This will multiply our chances of success.
-[06:48.16]unanimous 例 After a lengthy discussion they reached an unanimous decision on the marketing strategies.
-[07:00.71]ambiguity 例 The convention results in no ambiguity.
-[07:06.98]counteract 例 We have to reduce our prices to counteract the dollar effect.
-[07:15.83]stakeholder 例 Some salesmen are so afraid of getting shot down that they wait for clients to come to them rather than cold calling.
-[07:31.23]appreciate 例 They failed to appreciate the significance of the precautions.
-[07:40.50]crop 例 A green manure is a crop grown mainly to improve soil fertility.
-[07:48.77]capricious 例 The stock market is so capricious that investors had better think thoroughly before action.
-[08:01.46]alternate 例 The amount of time needed for these tasks will vary and perhaps it would be better to alternate them each weekend to lessen the workload.
-[08:19.00]abide 例 We are keen on foreign investment so long as foreign firms abide by the market rules and our country's constitution.
-[08:33.69]bail 例 He repudiated the court's decision to offer bail.
-[08:40.40]ponder 例 You'd better ponder over the means for raising funds before the project starts.
-[08:50.95]component 例 During schema evolution, any component of a schema can change from one version to the next.
+[00:00.00]cubicle [ˈkjuːbɪkl]n. 小隔间；小卧室 例 I like to decorate my cubicle with pictures of my family and friends.
+[00:10.20]veracity [vəˈræsəti]n. 说实话；诚实；真实性；精确性 例 The veracity of the statistics is questioned by all of the staff.
+[00:21.00]couture [kuˈtjʊə(r)]n. 女式服装设计师；女式时装店 例 He left Dior in 1961 and opened his own couture house, financed by Berge, in 1962.
+[00:33.24]vulnerable [ˈvʌlnərəbl]a. 易受伤的，脆弱的；易受攻击的 搭 vulnerable point 弱点
+[00:39.96]bias [ˈbaɪəs]n. 偏差，偏向；偏见；偏心，偏袒 vt. [常用被动语态]使有偏见 例 She goes to great effort to prompt her neighbour to shed his bias.
+[00:51.72]foreclose [fɔːˈkləʊz]v. 取消(抵押品)赎取权 例 Only through the help of a friendly lawyer did they escape foreclosure.
+[01:02.88]canvass [ˈkænvəs]vt. (详细)检查；向…游说；拉选票 vi. 招徕顾客；招徕生意；游说；民意调查 例 We have well-established channels of distribution, so we can canvass the retailers directly, without any middlemen.
+[01:21.48]accrue [əˈkruː]v. 自然增长；发生权责；获得，积累 例 The monthly finance charges will accrue if you do not pay off your credit card debt before the payment termination date.
+[01:37.32]enclose [ɪnˈkləʊz]vt. 围住，包住；把…装入信封；附上 例 I will enclose an order sheet for the dictionaries and a cheque for 100 dollars with the letter. 搭 enclose sth. with the letter 随信附上某物
+[01:54.84]redundant [rɪˈdʌndənt]a. 不必要的；多余的；被解雇的，失 业的 例 As the economy weakens, more and more people will be made redundant from their jobs.
+[02:08.16]stereotype [ˈsteriətaɪp]n. 陈腔滥调，老套 vt. 使一成不变； 对…有刻板的看法 例 He doesn't fit the stereotype of a successful businessman.
+[02:20.16]reinforce [ˌriːɪnˈfɔːs]vt. 增强，加强；增援；加固 n. 加固 物 搭 reinforce confidence 加强信心
+[02:27.96]deadline [ˈdedlaɪn]n. 最后期限，截止日期；截稿线
+[02:31.92]smuggle [ˈsmʌɡl]vt. 走私；偷运；偷带 vi. 走私
+[02:35.64]exclusive [ɪkˈskluːsɪv]a. 独有的，独享的；独家的；不包 括…的 n. 专有物；独家新闻 搭 be exclusive of 排除
+[02:43.68]parkland [ˈpɑːklænd]n. 公用场地；有树丛的开阔草地；适 合辟建公园的土地 例 The building is surrounded by five acres of parkland.
+[02:54.48]forecast [ˈfɔːkɑːst]n./vt. 预报；预测；预示 例 One thing we cannot do very well is to forecast the economy. 搭 forecaster n. 预报员(例：the weather forecaster 气象预报员) / forecasting n. 预测； 预报(例：sales forecasting 销售预测)
+[03:15.00]arouse [əˈraʊz]vt. 唤醒，唤起；激起，引起 vi. 醒来 例 You arouse their interest by telling them that you're the right person for the position and by promising to help them achieve their mission.
+[03:33.12]quarantine [ˈkwɒrəntiːn]n. 检疫；隔离；(政治或商业)封 锁；四十日期间 vt. 对…检疫；隔离 例 All of these imported animal products have to be quarantined for two weeks when they reach China. 搭 put under quarantine 实行检疫
+[03:52.44]venture [ˈventʃə(r)]n. 冒险；商业冒险，投机；企业 搭 at a venture 冒险地，碰运气地
+[03:58.80]ultimate [ˈʌltɪmət]a. 最终的；根本的；最大的
+[04:02.52]exempt [ɪɡˈzempt]vt. 免除；豁免 a. 被免除(义务、责任 等)的；被豁免的 例 Travel expenses are exempt from income tax. 搭 exempt sb. from sth./doing sth. 免除某人做 某事
+[04:16.44]apt [æpt]a. 有倾向的；适当的；适合的 例 Expense allowances are apt to mean fiddling.
+[04:23.76]mislay [ˌmɪsˈleɪ]vt. 放错地方；遗失 例 He often mislays different products.
+[04:30.84]peg [peɡ]n. 钉；(物价等的)限定标准；(价格、汇率 等的)限度 vt. 固定；使(工资或价格)固定或维持在 某一水平
+[04:37.80]fire [ˈfaɪə(r)]n. 火灾；射击；发射；热情 vt. 解雇， 开除；激励 例 Her boss threatened to fire her. 搭 fire out 解雇，开除 / miss fire 尝试失败；未 达到预想的效果 / no smoke with fire 无风不起 浪
+[04:52.44]bureau [ˈbjʊərəʊ]n. (政府等机构的)局，司，处，署；办 公署 例 The Census Bureau says birthrates have dropped in every area of the world except Africa.
+[05:05.88]commit [kəˈmɪt]vt. 把…交托给；使…承担义务；拨出… 供使用，调拨 搭 commit onself 使承担义务 / commit sb. to do sth. 责成某人做某事
+[05:15.72]leverage [ˈliːvərɪdʒ]n. 杠杆作用；力量，影响力；手段； 财务杠杆；举债经营 v. (使)举债经营 例 If you don't do this, you will miss the opportunity to create leverage.
+[05:29.52]kiosk [ˈkiːɒsk]n. 户外报刊亭；杂货摊；广告亭
+[05:33.00]entrepreneurial [ˌɒntrəprəˈnɜːriəl]a. 企业家的，富有企业家精神 或能力的 例 Entrepreneurial culture is part of the entrepreneurial management.
+[05:46.44]vicinity [vəˈsɪnəti]n. 邻近，附近；接近 例 There is a store in the immediate vicinity of the station. 搭 in the vicinity of 在…附近；与…接近
+[05:58.80]benefit [ˈbenɪfɪt]n. 收益；利益；福利，好处 v. 有益于， 受益 例 If the new team can find innovative ways to enhance employees' enthusiasm, the benefits are manifold. 搭 benefit of the doubt (在证据不足的情况下的) 无罪之假定 / for the benefit of 为了…(的利益)
+[06:20.88]orbit [ˈɔːbɪt]n. 轨道；势力范围；活动范围；生活常规 vt. 环绕…的轨道运行 vi. 进入轨道 例 Housing prices have gone into orbit this year. 搭 go into orbit 大获成功；暴跳如雷；达到极点
+[06:34.80]vicious [ˈvɪʃəs]a. 邪恶的；恶意的；有瑕疵的；残酷的 搭 vicious circle 恶性循环
+[06:40.92]sceptical [ˈskeptɪkl]a. 不肯相信的；持怀疑态度的 搭 be skeptical about sth. 对某事怀疑
+[06:48.12]visionary [ˈvɪʒənri]a. 有远见卓识的；幻想的；不实际的； 空想的 n. 空想家 搭 visionary leader 有远见的领导人
+[06:56.28]parity [ˈpærəti]n. 平等；平价；价值对等
+[06:59.52]trustee [trʌˈstiː]n. 托管人，受托人；理事 vt. 移交(财产) 给受托人
+[07:04.56]undermine [ˌʌndəˈmaɪn]vt. 暗中破坏；逐渐损坏 搭 undermine sb's reputation 暗中破坏某人的名 誉 / undermine sb's health 逐渐损害某人的健康
+[07:15.96]cede [siːd]vt. 割让；转让；放弃 例 The Fed should cede responsibility for the micro management of American banks.
+[07:26.64]remunerate [rɪˈmjuːnəreɪt]vt. 给…报酬；给…补偿 例 The company has not yet remunerated my overtime payments.
+[07:37.08]upbeat [ˈʌpbiːt]n. 上升；向好的方向发展；兴旺，繁荣 a. 乐观的，欢乐的
+[07:42.12]dependence [dɪˈpendəns]n. 依靠，依赖；信赖，信任 例 An increasing dependence on outside contractors has contributed to heightened danger at these plants.
+[07:57.00]upshift [ˈʌpʃɪft]v. 调高速挡；(使)加速 n. 换高挡；加 速；增加 例 The futures industry is expecting an upshift in the coming years.
+[08:08.40]win-win [ˌwɪnˈwɪn]a. 双赢的，互惠互利的
+[08:11.76]clutter [ˈklʌtə(r)]n. 杂乱，凌乱 vt. 使凌乱；胡乱地填满 例 The buttons not only slow down your computer, but also create visual clutter. 搭 clutter up 使散乱
+[08:25.68]liquid [ˈlɪkwɪd]a. 易变为现金的，易兑现的；流动的
+[08:29.52]attain [əˈteɪn]v. (通过努力)达到，获得；到达 搭 attain one's goal 达到目的 / attain to 到达； 获得
+[08:37.20]variance [ˈveəriəns]n. 不一致；变化；(实际成本与预订成 本间的)差异 例 Both sides are at variance on what measures to be taken. 搭 at variance (人与人间)有分歧；(事物之间)不 相符
+[08:51.60]teleworking [ˌtelɪˈwɜːkɪŋ]n. 远程工作；在家办公 例 The system of teleworking can help reduce office operating expenses.
+[09:03.12]mount [maʊnt]vi. 爬上；上升；(数量)增加；(程度)加深 vt. 爬上；举行，进行；发起，组织；固定 例 As job rejections mount up, they are beginning to feel alarmed.
+[09:16.08]curve [kɜːv]n. 曲线，弧线；弯曲处 v. (使)弯曲；(使)成 曲线 例 What information is needed to derive the production possibility curve of each country?
+[09:29.40]elite [ɪˈliːt]n. 精华；精英，杰出人物 a. 杰出的；精锐 的 例 We grouped an elite team for the onsite support for the new product. 搭 intellectual elite 知识界精英
+[09:43.08]referral [rɪˈfɜːrəl]n. 参考；参考的实例；介绍；指引；受 指点者；被介绍人 例 I made a referral of this young woman to our department.
+[09:54.12]carriage [ˈkærɪdʒ]n. (火车)客车厢；马车；运输；运费 例 The railway carriage became so hot that air misted up the windows.
+[10:05.04]fray [freɪ]n./v. 磨损；烦恼；争论 例 Only at this stage did biotech supporters enter the fray, denouncing the decision as a triumph of politics over science.
+[10:20.04]stabilise [ˈsteɪbəlaɪz]v. (使)稳定，(使)安定
+[10:24.24]end-consumer [ˌendkənˈsjuːmə(r)]n. (产品的)最终消费者 例 We see it that competition is really healthy for the end-consumer.
+[10:36.24]shelve [ʃelv]vt. 缓议，搁置；解雇 例 The plan has to be shelved due to lack of money.
+[10:43.68]underline [ˌʌndəˈlaɪn]vt. 强调；在…下画线 例 They invited many experts to train its employees and underlined again and again the importance of this project.
+[10:58.92]multiply [ˈmʌltɪplaɪ]v. (使)增加；(使)繁殖；乘，(使)相乘 例 This will multiply our chances of success.
+[11:08.28]speciality [ˌspeʃiˈæləti]n. 特性；专长；特产；特色经营
+[11:12.96]waive [weɪv]vt. 放弃(权利、特权、要求等)；搁置
+[11:16.56]unanimous [juˈnænɪməs]a. (全体)一致的；一致同意的；无 异议的 例 After a lengthy discussion they reached an unanimous decision on the marketing strategies. 搭 unanimous ballot 一致投票
+[11:33.36]ambiguity [ˌæmbɪˈɡjuːəti]n. 含义模糊；模棱两可 例 The convention results in no ambiguity.
+[11:41.76]methodical [məˈθɒdɪkl]a. 有方法的；有系统的
+[11:45.60]trigger [ˈtrɪɡə(r)]v. 引起，触发；促使 n. 触发器 搭 quick on the trigger 行动迅速的 / trigger a chain of reaction 引起连锁反应 / trigger event 触发事件
+[11:57.96]direct [dɪˈrekt]a. 直接的 ad. 直接地
+[12:01.08]piecework [ˈpiːswɜːk]n. 计件；计件工作
+[12:04.56]counteract [ˌkaʊntərˈækt]vt. 抵制；抵消，中和；削减 例 We have to reduce our prices to counteract the dollar effect.
+[12:15.36]stakeholder [ˈsteɪkhəʊldə(r)]n. 赌金保管者；利益共享者 例 Some salesmen are so afraid of getting shot down that they wait for clients to come to them rather than cold calling.
+[12:31.92]appreciate [əˈpriːʃieɪt]vt. 赏识；意识到，懂得；对…表示感 激 vi. 升值，涨价 例 They failed to appreciate the significance of the precautions. 搭 appreciate sb. doing sth. 赞赏某人做某事
+[12:48.12]crop [krɒp]n. 农作物；产量 vt. 种植；收割；修剪； 剪短 vi. 收成；收获 例 A green manure is a crop grown mainly to improve soil fertility.
+[12:59.40]capricious [kəˈprɪʃəs]a. 变幻莫测的，反复无常的；多变的 例 The stock market is so capricious that investors had better think thoroughly before action. 搭 capricious power 反复无常的权力
+[13:16.20]alternate [ɔːlˈtɜːnət]a. 轮流的；间隔的；供替换的 n. 替代 者；候补者 [ˈɔːltəneɪt]v. (使)轮流；(使)替换 例 The amount of time needed for these tasks will vary and perhaps it would be better to alternate them each weekend to lessen the workload. 搭 night and day alternate 昼夜交替 / on alternate days 每隔一天
+[13:43.56]abide [əˈbaɪd]vt. (常用于否定句或疑问句)忍受；经受住 vi. 遵守；坚持；停留 例 We are keen on foreign investment so long as foreign firms abide by the market rules and our country's constitution. 搭 abide by 遵守
+[14:01.92]bail [beɪl]n. 保释；担保；保释金；保释人 vt. 保释 例 He repudiated the court's decision to offer bail. 搭 bail bargaining 保释条件协商 / bail bond 保 释保证书 / bail out 保释；使摆脱(经济等方面的) 困境 / go bail for 做…的保释人；为…提供保释 金
+[14:20.64]ponder [ˈpɒndə(r)]v. 考虑；衡量，估量；反思 例 You'd better ponder over the means for raising funds before the project starts.
+[14:32.40]component [kəmˈpəʊnənt]n. 成分，要素；元件 a. 组成的； 成分的 例 During schema evolution, any component of a schema can change from one version to the next. 搭 component part of …的组成部分
+[14:49.20]multipurpose [ˌmʌltɪˈpɜːpəs]a. 多功能的；多用途的
